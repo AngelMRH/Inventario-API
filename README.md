@@ -92,7 +92,7 @@ npm test
 
 [https://inventory-api.railway.app](https://inventory-api.railway.app/api-docs)
 
-## 👤 Autor
+##  Autor
 
 **Angel Manuel Ruiz Herrera**  
 GitHub: [@AngelMRH](https://github.com/AngelMRH)
