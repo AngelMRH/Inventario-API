@@ -82,7 +82,7 @@ GET /api/users/me  → Mi perfil
 
 Disponible en `http://localhost:3000/api-docs` con Swagger UI interactivo.
 
-## 🧪 Tests
+##  Tests
 
 ```bash
 npm test
